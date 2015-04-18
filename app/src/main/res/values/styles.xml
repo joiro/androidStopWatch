@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="timerText">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:background">#000066</item>
+    </style>
+    <style name="button">
+        <item name="android:background">@drawable/stopwatchbutton</item>
+        <item name="android:layout_width">100dp</item>
+        <item name="android:layout_height">100dp</item>
+    </style>
+
+</resources>
