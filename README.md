@@ -1,3 +1,3 @@
 # androidStopWatch
 
-![alt tag](https://raw.github.com/joiro/androidStopWatch/blob/master/stopwatchThree.png)
+![alt tag](https://github.com/joiro/androidStopWatch/blob/master/stopwatchThree.png)
